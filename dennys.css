@@ -1,0 +1,27 @@
+<!--*{margin:0 auto; padding:0}-->
+h1{font-size:30px; font-family:"Curlz MT";  text-align:center; font-weight:bold ; text-decoration:blink}
+sub{font-size:12px; font-family:"Times New Roman", Times, serif; font-style:italic}
+sup{font-size:10px; font-family:"Times New Roman", Times, serif; font-style:italic}
+p{color:white}
+b{ font-size:18px }
+i{color:#FFFFFF}
+u{font-family:Arial, Helvetica, sans-serif; color:white;}
+.note{text-decoration:underline; font-style:italic; font-size:12px;}
+table{ margin-top:40px; margin-bottom:50px ; }
+body{background:url(bc.png) ; font-family:verdana; font-size:10px; color:#4c4e55;}
+#all{width:1120px; height:900px;margin:200px; margin-top:50px; margin-bottom:50px; margin-left:120px;margin-right:100px; opacity :0.8;  }
+#header{ width:913px;height: 150px; background:#FF3300; margin-left:205px; padding-top:20px; }
+#header2{ width:850px; height:120px; background:#FFFFFF; color:#000000;  border-radius:20px 20px 20px 20px; box-shadow:5px 5px 5px 5px;}
+#logo{float:left; width:200px; height:150px; background:#000066; padding-top:20px;}
+#logo2{width:170px; height:120px; background:#FFFFFF; border-radius:20px 20px 20px 20px}
+#sidebar_kiri{float:left; width:200px; height:600px;margin-top:5px}
+#icon2{widht:200px; height:300px; margin-bottom:5px;}
+#sidebar_kanan{float:right; width:200px; height:600px; background:; margin-top:-600px; }
+#icon{width:200px; height:200px; margin-bottom:5px;}
+#center{background:rgb(0,0,102); width: 700px; height:595px; margin-top:5px; margin-left:205px; padding:3px; }
+#footer{background:#990000; width:1117px; height:120px; margin-top:5px; padding-top:15px}
+#footer2{background:#FF0000; width:917px; height:100px; border-radius:20px 20px 20px 20px }
+.zoom {height:auto; transition: all 0.5s; -o-transition: all 0.5s; -moz-transition: all 0.5s; -webkit-transition: all 0.5s;}
+.zoom:hover {transition: all 0.3s; -o-transition: all 0.3s; -moz-transition: all 0.3s; -webkit-transition: all 0.3s; transform: scale(1.3); -moz-transform: scale(1.3); -o-transform: scale(1.3); -webkit-transform: scale(1.3);
+    
+}
